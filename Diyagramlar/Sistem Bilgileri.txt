@@ -1,0 +1,27 @@
+Market otomasyonuna kayýt ola basarak üye olabilirsiniz.
+Üye olup giriþ yaptýðýnýzda çalýþan olarak giriþ yapmýþ oluyorsunuz PROFÝL BÝLGÝLERÝNÝ ve STOK DURUMUNU göremiyoruz.
+Admin giriþi yapmak için ise 
+
+Kullanýcý:ADMÝN
+Þifre:456
+
+
+Admin giriþini yaptýktan sonra PROFÝL BÝLGÝLERÝNÝ ve STOK DURUMUNU görebiliyoruz.
+
+####PROFÝL BÝLGÝLERÝ##### kýsmýna gelince göster butonuna týklýyoruz ve bilgiler geliyor.
+Bu bilgiler üzerinde Kullanýcý Adýn textbox"ýna silmek istediðiniz çalýþanýn adýný girin ve Kayýt Sil
+butonuna týklýyoruz ve siliniyor.
+
+Ayný þekilde Kullanýcý textbox"ýna güncellemek istediðimiz kiþinin Kullanýcý adýný giriyoruz ve ona göre
+deðiþtirmek istediðiniz bilgileri düzenleyip Güncelle butonuna týklarsak bilgiler güncellenir.
+
+
+####STOK DURUMU#### kýsmýnda ise yukardaki ayný durumlar var fakat burda Numaraya göre güncelleme iþlemi yapýyor.
+Ürünün gerekli bilgilerini yazdýktan sonra Kaydet butonunu kullanarak kayýt yapabiliriz.
+
+####Meyve####Peynir####Bakliyat####Adetli####ET#### butonlarý bizim marketimizde bulunan ürünlerin sýnýflandýrýlmýþ halidir.
+Burada istediðimiz ürüne týklarsak sað tarafta duran hesap makinemizde fiyatýmýz görünecektir.Bu ürüne baþka bir ürün daha eklemek
+istiyorsak hesap makinesi kýsmýnda "+" butonuna týklýyoruz ve diðer ürün eklenmiþ olur.Sonucu görmek için "=" butonuna týklayabilirsiniz.
+Yaptýðýnýz iþlemin geçmiþini görmek istiyorsanýz Geçmiþi Göster butonuna týklayabilirsiniz ve ayný butona týklayarak Geçmiþi Gizleyebilirsiniz.
+
+Sað alt köþede görünen Kapý simgesine týklarsak programdan çýkar ve sizi tekrar giriþ ekranýna yönlendirir.
