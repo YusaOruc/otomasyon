@@ -1,0 +1,12 @@
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\bin\Debug\OTOMASYON2.exe.config
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\bin\Debug\OTOMASYON2.exe
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\bin\Debug\OTOMASYON2.pdb
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.csprojAssemblyReference.cache
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.Form1.resources
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.Properties.Resources.resources
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.csproj.GenerateResource.cache
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.csproj.CoreCompileInputs.cache
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.exe
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.pdb
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.Form3.resources
+C:\Users\YUŞA\source\repos\OTOMASYON2\OTOMASYON2\obj\Debug\OTOMASYON2.Profil.resources
